@@ -35,40 +35,40 @@
 30-->[androidx.core:core:1.12.0] C:\Users\DELL\.gradle\caches\transforms-3\440a64c1659b3784956be1ef27019da1\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 31
 32    <application
-32-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:20:5-37:19
+32-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:20:5-37:19
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 33-->[androidx.core:core:1.12.0] C:\Users\DELL\.gradle\caches\transforms-3\440a64c1659b3784956be1ef27019da1\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 34        android:debuggable="true"
 35        android:extractNativeLibs="false"
 36        android:icon="@mipmap/ic_launcher"
-36-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:21:9-43
+36-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:21:9-43
 37        android:label="@string/app_name"
-37-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:22:9-41
+37-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:22:9-41
 38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:23:9-54
+38-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:23:9-54
 39        android:supportsRtl="true"
-39-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:24:9-35
+39-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:24:9-35
 40        android:theme="@style/Theme.DessertClicker" >
-40-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:25:9-52
+40-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:25:9-52
 41        <activity
-41-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:27:9-36:20
+41-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:27:9-36:20
 42            android:name="com.example.dessertclicker.MainActivity"
-42-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:28:13-41
+42-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:28:13-41
 43            android:exported="true"
-43-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:29:13-36
+43-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:29:13-36
 44            android:label="@string/app_name"
-44-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:30:13-45
+44-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:30:13-45
 45            android:theme="@style/Theme.DessertClicker" >
-45-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:31:13-56
+45-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:31:13-56
 46            <intent-filter>
-46-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:32:13-35:29
+46-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:32:13-35:29
 47                <action android:name="android.intent.action.MAIN" />
-47-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:33:17-69
-47-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:33:25-66
+47-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:33:17-69
+47-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:33:25-66
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:34:17-77
-49-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\AndroidManifest.xml:34:27-74
+49-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:34:17-77
+49-->E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\AndroidManifest.xml:34:27-74
 50            </intent-filter>
 51        </activity>
 52        <activity

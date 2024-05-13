@@ -38,9 +38,9 @@ com.example.dessertclicker.app-lifecycle-runtime-ktx-2.7.0-36 C:\Users\DELL\.gra
 com.example.dessertclicker.app-ui-graphics-release-37 C:\Users\DELL\.gradle\caches\transforms-3\f80992176173c08eebe68f69f166d9be\transformed\ui-graphics-release\res
 com.example.dessertclicker.app-ui-tooling-data-release-38 C:\Users\DELL\.gradle\caches\transforms-3\fae9b4568c8fe28d13b06354e8f50b46\transformed\ui-tooling-data-release\res
 com.example.dessertclicker.app-savedstate-ktx-1.2.1-39 C:\Users\DELL\.gradle\caches\transforms-3\feafe4506e00f055cc53add47b9260a0\transformed\savedstate-ktx-1.2.1\res
-com.example.dessertclicker.app-resValues-40 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\build\generated\res\resValues\debug
-com.example.dessertclicker.app-packageDebugResources-41 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.dessertclicker.app-packageDebugResources-42 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.dessertclicker.app-merged_res-43 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\build\intermediates\merged_res\debug
-com.example.dessertclicker.app-debug-44 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\debug\res
-com.example.dessertclicker.app-main-45 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker\app\src\main\res
+com.example.dessertclicker.app-resValues-40 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\build\generated\res\resValues\debug
+com.example.dessertclicker.app-packageDebugResources-41 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.dessertclicker.app-packageDebugResources-42 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.dessertclicker.app-merged_res-43 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\build\intermediates\merged_res\debug
+com.example.dessertclicker.app-debug-44 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\debug\res
+com.example.dessertclicker.app-main-45 E:\PEMOGRAMAN MOBILE\MOBILE KODLIN\DessertClicker_\app\src\main\res

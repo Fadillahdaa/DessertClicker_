@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "E:\\PEMOGRAMAN MOBILE\\MOBILE KODLIN\\DessertClicker\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "18,17",
-                        "startColumns": "4,4",
-                        "startOffsets": "727,681",
-                        "endColumns": "42,45",
-                        "endOffsets": "765,722"
-                    },
-                    "to": {
-                        "startLines": "16,32",
-                        "startColumns": "4,4",
-                        "startOffsets": "1121,2142",
-                        "endColumns": "42,45",
-                        "endOffsets": "1159,2183"
-                    }
-                },
-                {
                     "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\a535d965b3dc37d268d1a2b6329acea3\\transformed\\material3-release\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
@@ -54,23 +37,6 @@
                         "endLines": "117,118,119,120,121,122,123,124,125,128,129,130,131,132,133,134,135,136,137,138,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176",
                         "endColumns": "87,85,80,83,68,64,82,105,85,13,53,68,60,68,88,94,73,96,92,97,13,90,87,95,97,63,67,86,93,66,71,71,100,108,75,68,47,65,63,56,56,71,49,53,70,70,69,68,57,75,70,73,85,49,69,64",
                         "endOffsets": "7267,7353,7434,7518,7587,7652,7735,7841,7927,8047,8101,8170,8231,8300,8389,8484,8558,8655,8748,8846,8995,9086,9174,9270,9368,9432,9500,9587,9681,9748,9820,9892,9993,10102,10178,10247,10295,10361,10425,10482,10539,10611,10661,10715,10786,10857,10927,10996,11054,11130,11201,11275,11361,11411,11481,11546"
-                    }
-                },
-                {
-                    "source": "E:\\PEMOGRAMAN MOBILE\\MOBILE KODLIN\\DessertClicker\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "682",
-                        "endColumns": "91",
-                        "endOffsets": "769"
-                    },
-                    "to": {
-                        "startLines": "215",
-                        "startColumns": "4",
-                        "startOffsets": "13697",
-                        "endColumns": "90",
-                        "endOffsets": "13783"
                     }
                 },
                 {
@@ -127,6 +93,40 @@
                     }
                 },
                 {
+                    "source": "E:\\PEMOGRAMAN MOBILE\\MOBILE KODLIN\\DessertClicker_\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "16,17,19,20,21,18",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "642,695,806,846,957,750",
+                        "endColumns": "52,54,39,110,71,55",
+                        "endOffsets": "690,745,841,952,1024,801"
+                    },
+                    "to": {
+                        "startLines": "101,113,184,185,186,193",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "6109,6959,11887,11927,12038,12465",
+                        "endColumns": "52,54,39,110,71,55",
+                        "endOffsets": "6157,7009,11922,12033,12105,12516"
+                    }
+                },
+                {
+                    "source": "E:\\PEMOGRAMAN MOBILE\\MOBILE KODLIN\\DessertClicker_\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "682",
+                        "endColumns": "91",
+                        "endOffsets": "769"
+                    },
+                    "to": {
+                        "startLines": "215",
+                        "startColumns": "4",
+                        "startOffsets": "13697",
+                        "endColumns": "90",
+                        "endOffsets": "13783"
+                    }
+                },
+                {
                     "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\15683ba0f4e359741be3d1ac6ec01816\\transformed\\activity-1.8.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -178,20 +178,20 @@
                     }
                 },
                 {
-                    "source": "E:\\PEMOGRAMAN MOBILE\\MOBILE KODLIN\\DessertClicker\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\PEMOGRAMAN MOBILE\\MOBILE KODLIN\\DessertClicker_\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "16,17,19,20,21,18",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "642,695,806,846,957,750",
-                        "endColumns": "52,54,39,110,71,55",
-                        "endOffsets": "690,745,841,952,1024,801"
+                        "startLines": "18,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "727,681",
+                        "endColumns": "42,45",
+                        "endOffsets": "765,722"
                     },
                     "to": {
-                        "startLines": "101,113,184,185,186,193",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "6109,6959,11887,11927,12038,12465",
-                        "endColumns": "52,54,39,110,71,55",
-                        "endOffsets": "6157,7009,11922,12033,12105,12516"
+                        "startLines": "16,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "1121,2142",
+                        "endColumns": "42,45",
+                        "endOffsets": "1159,2183"
                     }
                 },
                 {
